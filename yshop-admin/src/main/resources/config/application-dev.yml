@@ -51,7 +51,7 @@ spring:
             multi-statement-allow: true
   redis:
     #数据库索引
-    database: 16
+    database: 0
     host: 127.0.0.1
     port: 6379
     password:
